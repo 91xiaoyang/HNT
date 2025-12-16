@@ -1,0 +1,5 @@
+{
+  "name": "Tower of Hanoi Adventure",
+  "description": "An interactive educational presentation teaching the Tower of Hanoi and recursion concepts through gamification and storytelling.",
+  "requestFramePermissions": []
+}
